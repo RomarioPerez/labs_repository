@@ -1,0 +1,2 @@
+
+- Crear función para bloquear acceso a chat de IA
